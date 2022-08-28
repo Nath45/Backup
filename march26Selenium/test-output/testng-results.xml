@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-18T16:28:52 IST" name="Default suite" finished-at="2022-08-18T16:29:32 IST" duration-ms="40650">
+    <groups>
+    </groups>
+    <test started-at="2022-08-18T16:28:52 IST" name="Default test" finished-at="2022-08-18T16:29:32 IST" duration-ms="40650">
+      <class name="TestNG.example2_TestNGTestClass">
+        <test-method signature="openBrowser()[pri:0, instance:TestNG.example2_TestNGTestClass@72cde7cc]" started-at="2022-08-18T16:28:52 IST" name="openBrowser" finished-at="2022-08-18T16:29:32 IST" duration-ms="40549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+      </class> <!-- TestNG.example2_TestNGTestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

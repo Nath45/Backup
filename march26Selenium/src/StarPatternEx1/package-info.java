@@ -1,0 +1,1 @@
+package StarPatternEx1;
